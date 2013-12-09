@@ -18,6 +18,13 @@ This is the fork of the original project. Mainly because the original
 project is broken for pip requirements.txt using projects. Hopefully
 we can put this fork to rest as soon as possible ;-)
 
+Patches from:
+
+ - boekooi https://github.com/fatbox/django-simple-menu/pull/14
+ - diegotoral https://github.com/fatbox/django-simple-menu/pull/13
+ - tomleo https://github.com/fatbox/django-simple-menu/pull/12
+
+
 Documentation
 -------------
 The documentation is located in the docs directory and can be viewed at:

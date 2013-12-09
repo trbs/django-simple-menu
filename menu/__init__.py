@@ -2,7 +2,7 @@ import traceback
 import sys
 import re
 
-VERSION = (2, 0, 6)
+VERSION = (2, 0, 7)
 VERSION_STRING = ".".join([str(v) for v in VERSION])
 VERSION_STRING_SHORT = ".".join([str(VERSION[0]), str(VERSION[1])])
 
