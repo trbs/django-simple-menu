@@ -1,5 +1,5 @@
-Simple Django Menus
-===================
+Simple Django Menus 2
+=====================
 
 django-simple-menu is an entirely code based menu system, because, who
 really wants to define their menus in the django admin...
@@ -10,6 +10,13 @@ and more.
 
 It was built from scratch over the past 3 years as part of an internal
 system after we were not satisifed by all of the existing menu apps.
+
+Fork
+----
+
+This is the fork of the original project. Mainly because the original
+project is broken for pip requirements.txt using projects. Hopefully
+we can put this fork to rest as soon as possible ;-)
 
 Documentation
 -------------

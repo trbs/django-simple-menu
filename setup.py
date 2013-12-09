@@ -4,7 +4,7 @@ from setuptools import setup
 
 from menu import VERSION_STRING
 
-setup(name='django-simple-menu',
+setup(name='django-simple-menu2',
       packages=['menu'],
       include_package_data=True,
       version=VERSION_STRING,
@@ -12,7 +12,7 @@ setup(name='django-simple-menu',
       long_description=open('README.rst').read(),
       author='Evan Borgstrom',
       author_email='evan@fatbox.ca',
-      url='https://github.com/fatbox/django-simple-menu',
+      url='https://github.com/trbs/django-simple-menu',
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Framework :: Django',
